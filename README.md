@@ -20,7 +20,7 @@ mvn spring-boot:run
 
 The final JAR is included in the repo root: `bajaj-finserv.jar`
 
-Download link: `https://github.com/loopholend/Bajaj-FinServ-api-round/raw/main/bajaj-finserv.jar`
+Download link: `https://github.com/Prafulla375/Bajaj-FinServ-API-Round/raw/main/bajaj-finserv.jar`
 
 ## What it does
 
@@ -33,9 +33,9 @@ No controller or manual trigger needed - everything runs on startup using Comman
 
 ## SQL Query
 
-The query solves Question 1 (my regNo 0827CS231185 ends in 85 which is odd).
+The query solves Question 1 (my regNo 0827CS231183 ends in 83 which is odd).
 
 It finds the highest salary that was not credited on the 1st of any month, along with employee name, age, and department.
 
 ## Author
-Pranjal Pal - 0827CS231185
+Prafulla Dongre - 0827CS231183
