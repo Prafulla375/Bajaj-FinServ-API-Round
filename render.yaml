@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: bajaj-finserv-api
+    runtime: docker
+    repo: https://github.com/Prafulla375/Bajaj-FinServ-API-Round
+    branch: main
+    plan: free
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
